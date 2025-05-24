@@ -199,7 +199,6 @@ int main() {
  ## OUTPUT
 
 ![image](https://github.com/user-attachments/assets/8be401ce-2403-4820-92e1-a86a21dbc08a)
-![image](https://github.com/user-attachments/assets/45d5a0da-758f-4e80-be75-de1185814b58)
 
 
 
